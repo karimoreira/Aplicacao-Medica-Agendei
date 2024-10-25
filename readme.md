@@ -7,15 +7,12 @@ Agendei é uma aplicação completa para agendamento de consultas médicas, perm
 ### Postman
 
 <div align="center">
-    <img src="images/postman.jpeg" alt="Postman" width="300"/>
     <img src="images/editadmin.jpeg" alt="Postman Edit Admin" width="300"/>
     <img src="images/inserir.jpeg" alt="Postman Inserir" width="300"/>
 </div>
 
 ### Telas da aplicação: 
-
-<div align="center">
-    <img src="images/login.jpeg" alt="Tela Inicial" width="300"/>
+<div>
     <img src="images/criarconta.png" alt="Tela de Criar Conta" width="300"/>
     <img src="images/appointments.jpeg" alt="Tela de Agendamento" width="300"/>
 </div>
