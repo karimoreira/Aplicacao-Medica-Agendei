@@ -12,7 +12,7 @@ Agendei é uma aplicação completa para agendamento de consultas médicas, perm
 </div>
 
 ### Telas da aplicação: 
-<div>
+<div align="center">
     <img src="images/criarconta.png" alt="Tela de Criar Conta" width="300"/>
     <img src="images/appointments.jpeg" alt="Tela de Agendamento" width="300"/>
 </div>
